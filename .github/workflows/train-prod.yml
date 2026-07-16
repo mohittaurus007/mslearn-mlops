@@ -6,7 +6,7 @@ on:
 
 permissions:
   contents: read
-  issues: write/train-prodc
+  issues: write/train-prod
   pull-requests: write
 #test
 jobs:
