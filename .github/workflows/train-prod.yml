@@ -6,9 +6,9 @@ on:
 
 permissions:
   contents: read
-  issues: write
+  issues: write/train-prodc
   pull-requests: write
-
+#test
 jobs:
   train-prod:
     if: >-
